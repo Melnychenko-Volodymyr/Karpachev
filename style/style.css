@@ -7,19 +7,25 @@ body {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	margin-left: 10%;
+	margin-right: 5%;
+}
+.picture1 {
+	margin-left: 0%;
 }
 .p1 {
-	margin-left: 10%;
+	margin-left: 5%;
 }
 .p4 {
-	margin-right: 5%;
+	margin-right: 0%;
 }
 .s1 {
 	display: flex;
 	justify-content: space-between; 
 	height: 450px;
-/*	background-color: #0092ff; */
-	background-image: url("../img/back.jpg");
+	background-color: #296DCE; 
+	background-image: url("../img/Group21.svg");
+
 	background-size: cover;
 
 }
@@ -89,7 +95,7 @@ body {
 }		
 .picture2 {
 	height: 400px;
-	margin-top: 20px;
+	margin-top: 50px;
 	margin-right: 200px;
 }
 .p4 {
